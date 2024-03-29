@@ -29,4 +29,5 @@ REG NO: 212223220049
 ![image](https://github.com/Lakshmi-v-Priya/Muttiple-capacity-with-infinite-capacity/assets/151720706/83c2f7b6-e977-4ea2-a5a6-61c26f63b4d4)
 
 ## Result : 
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
 
